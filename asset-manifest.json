@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MERN-Stack.io/static/css/main.e4e535d9.chunk.css",
+    "main.js": "/MERN-Stack.io/static/js/main.d8be2c3d.chunk.js",
+    "main.js.map": "/MERN-Stack.io/static/js/main.d8be2c3d.chunk.js.map",
+    "runtime-main.js": "/MERN-Stack.io/static/js/runtime-main.4514abf4.js",
+    "runtime-main.js.map": "/MERN-Stack.io/static/js/runtime-main.4514abf4.js.map",
+    "static/css/2.f7d5f77a.chunk.css": "/MERN-Stack.io/static/css/2.f7d5f77a.chunk.css",
+    "static/js/2.28a1091c.chunk.js": "/MERN-Stack.io/static/js/2.28a1091c.chunk.js",
+    "static/js/2.28a1091c.chunk.js.map": "/MERN-Stack.io/static/js/2.28a1091c.chunk.js.map",
+    "static/js/3.d2ba9802.chunk.js": "/MERN-Stack.io/static/js/3.d2ba9802.chunk.js",
+    "static/js/3.d2ba9802.chunk.js.map": "/MERN-Stack.io/static/js/3.d2ba9802.chunk.js.map",
+    "index.html": "/MERN-Stack.io/index.html",
+    "static/css/2.f7d5f77a.chunk.css.map": "/MERN-Stack.io/static/css/2.f7d5f77a.chunk.css.map",
+    "static/css/main.e4e535d9.chunk.css.map": "/MERN-Stack.io/static/css/main.e4e535d9.chunk.css.map",
+    "static/js/2.28a1091c.chunk.js.LICENSE.txt": "/MERN-Stack.io/static/js/2.28a1091c.chunk.js.LICENSE.txt",
+    "static/media/AMZN.8a708a0e.svg": "/MERN-Stack.io/static/media/AMZN.8a708a0e.svg",
+    "static/media/GOOGL.63312655.png": "/MERN-Stack.io/static/media/GOOGL.63312655.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4514abf4.js",
+    "static/css/2.f7d5f77a.chunk.css",
+    "static/js/2.28a1091c.chunk.js",
+    "static/css/main.e4e535d9.chunk.css",
+    "static/js/main.d8be2c3d.chunk.js"
+  ]
+}
